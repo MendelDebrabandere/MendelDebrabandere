@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MendelDebrabandere&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MendelDebrabandere&hide=Mathematica&exclude_repo=UnrealEngine&layout=compact&theme=tokyonight&exclude_repo=GP2_PhysX,UnrealEngine)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MendelDebrabandere&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MendelDebrabandere&hide=Mathematica&exclude_repo=UnrealEngine,GP2_PhysX,PortalRemake-DeferredRenderer,ZombieGame,CrowdPathfinding,GameplayProgramming&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
