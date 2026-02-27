@@ -1,5 +1,4 @@
-[![Icon](https://cdn.iconscout.com/icon/free/png-128/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp)](https://leetcode.com/u/mendeldebrabandere/) [LeetCode/MendelDebrabandere](https://leetcode.com/u/mendeldebrabandere/)
-
+[![Icon](https://cdn.iconscout.com/icon/free/png-128/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp)](https://leetcode.com/u/mendeldebrabandere/)
 
 
 <!--
